@@ -1,0 +1,3 @@
+Shun enemy's shots with jumping and crouch. 
+--- RECORDSEPARATOR ---
+Use grenades, barrels and rockets for killing.
