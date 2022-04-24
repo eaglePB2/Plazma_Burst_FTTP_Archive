@@ -1,0 +1,5 @@
+The game contains scenes of violence. 
+--- RECORDSEPARATOR ---
+You can turn off blood and dismemberment in the game 
+--- RECORDSEPARATOR ---
+options.

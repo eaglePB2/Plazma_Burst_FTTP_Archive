@@ -1,0 +1,3 @@
+Radio:
+--- RECORDSEPARATOR ---
+- I'll go with another way and open this door.
