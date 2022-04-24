@@ -2,7 +2,7 @@
 
 > The Archives of Plazma Burst FTTP Flash with the newest open sourced resources.
 
-![GitHub all releases](https://img.shields.io/github/downloads/eaglepb2/Plazma-Burst-Archive/total?style=for-the-badge) ![GitHub last commit](https://img.shields.io/github/last-commit/eaglepb2/Plazma-Burst-Archive?style=for-the-badge)
+![GitHub all releases](https://img.shields.io/github/downloads/eaglepb2/Plazma_Burst_FTTP_Archive/total?style=for-the-badge) ![GitHub last commit](https://img.shields.io/github/last-commit/eaglepb2/Plazma_Burst_FTTP_Archive?style=for-the-badge)
 
 Read this in other languages: [简体中文](https://github.com/eaglePB2/Plazma_Burst_2_Archive/blob/main/README.zh-CN.md)
 
